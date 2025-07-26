@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Docker build cache
+.dockerignore
+
+# IDE/Editor specific files
+.vscode/
+.idea/

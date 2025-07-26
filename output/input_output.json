@@ -1,0 +1,458 @@
+{
+    "metadata": {
+        "input_documents": [
+            "bitcoin.pdf"
+        ],
+        "persona": "student",
+        "job_to_be_done": "Learn about bitcoin.",
+        "processing_timestamp": "2025-07-26T21:10:49.162197Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "www.bitcoin.org",
+            "importance_rank": 1
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 9,
+            "section_title": "A. Back, \"Hashcash - a denial of service counter-measure,\"",
+            "importance_rank": 2
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 9,
+            "section_title": "[1]",
+            "importance_rank": 3
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 8,
+            "section_title": "12. Conclusion",
+            "importance_rank": 4
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 6,
+            "section_title": "10. Privacy",
+            "importance_rank": 5
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 4,
+            "section_title": "Incentive",
+            "importance_rank": 6
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 7
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "A certain percentage of fraud is accepted as unavoidable.  These costs and payment uncertainties",
+            "importance_rank": 8
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "Proof-of-Work",
+            "importance_rank": 9
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "reversible services.  With the possibility of reversal, the need for trust spreads.  Merchants must",
+            "importance_rank": 10
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "Transactions",
+            "importance_rank": 11
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "2)",
+            "importance_rank": 12
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "basis, and nodes can leave and rejoin the network at will, accepting the longest",
+            "importance_rank": 13
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 4,
+            "section_title": "Reclaiming Disk Space",
+            "importance_rank": 14
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "trusted third parties to process electronic payments.  While the system works well enough for",
+            "importance_rank": 15
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "Combining and Splitting Value",
+            "importance_rank": 16
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "3)",
+            "importance_rank": 17
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 4,
+            "section_title": "circulation, the incentive can transition entirely to transaction fees and be completely inflation",
+            "importance_rank": 18
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 6,
+            "section_title": "parties involved and the trusted third party.  The necessity to announce all transactions publicly",
+            "importance_rank": 19
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "Timestamp Server",
+            "importance_rank": 20
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "financial institution.  Digital signatures provide part of the solution, but the main",
+            "importance_rank": 21
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "confirm the inconsistency.  Businesses that receive frequent payments will probably still want to",
+            "importance_rank": 22
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 6,
+            "section_title": "11. Calculations",
+            "importance_rank": 23
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "6)",
+            "importance_rank": 24
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "For our timestamp network, we implement the proof-of-work by incrementing a nonce in the",
+            "importance_rank": 25
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "\ue09e z \u2212 k \ue09f \ue09f",
+            "importance_rank": 26
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "decided which arrived first.  To accomplish this without a trusted party, transactions must be",
+            "importance_rank": 27
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "transactions for themselves, the simplified method can be fooled by an attacker's fabricated",
+            "importance_rank": 28
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 9,
+            "section_title": "[8]",
+            "importance_rank": 29
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "5)",
+            "importance_rank": 30
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "timestamp server to generate computational proof of the chronological order of transactions.  The",
+            "importance_rank": 31
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "Simplified Payment Verification",
+            "importance_rank": 32
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 8,
+            "section_title": "z=50   P=0.0000006",
+            "importance_rank": 33
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "minimum practical transaction size and cutting off the possibility for small casual transactions,",
+            "importance_rank": 34
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 8,
+            "section_title": "that quickly becomes computationally impractical for an attacker to change if honest nodes",
+            "importance_rank": 35
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "1)",
+            "importance_rank": 36
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "4)",
+            "importance_rank": 37
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "Given our assumption that  p > q , the probability drops exponentially as the number of blocks the",
+            "importance_rank": 38
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "the proof-of-work difficulty is determined by a moving average targeting an average number of",
+            "importance_rank": 39
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 9,
+            "section_title": "[2]",
+            "importance_rank": 40
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 6,
+            "section_title": "from being linked to a common owner.  Some linking is still unavoidable with multi-input",
+            "importance_rank": 41
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 9,
+            "section_title": "S. Haber, W.S. Stornetta, \"How to time-stamp a digital document,\" In  Journal of Cryptology , vol 3, no",
+            "importance_rank": 42
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "1",
+            "importance_rank": 43
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "The recipient waits until the transaction has been added to a block and  z  blocks have been",
+            "importance_rank": 44
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "decision is represented by the longest chain, which has the greatest proof-of-work effort invested",
+            "importance_rank": 45
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "7",
+            "importance_rank": 46
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 1,
+            "section_title": "the proof-of-work.  The longest chain not only serves as proof of the sequence of",
+            "importance_rank": 47
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "Private Key",
+            "importance_rank": 48
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 4,
+            "section_title": "Tx3",
+            "importance_rank": 49
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "transactions contain multiple inputs and outputs.  Normally there will be either a single input",
+            "importance_rank": 50
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "extending it.  If two nodes broadcast different versions of the next block simultaneously, some",
+            "importance_rank": 51
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "Item",
+            "importance_rank": 52
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 2,
+            "section_title": "Item",
+            "importance_rank": 53
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "Tx",
+            "importance_rank": 54
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "In",
+            "importance_rank": 55
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 5,
+            "section_title": "Out",
+            "importance_rank": 56
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "p",
+            "importance_rank": 57
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 7,
+            "section_title": "if k \ue085 z }",
+            "importance_rank": 58
+        },
+        {
+            "document": "bitcoin.pdf",
+            "page_number": 3,
+            "section_title": "Tx",
+            "importance_rank": 59
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "A purely peer-to-peer version of electronic cash would allow online",
+            "page_number": 1,
+            "importance_rank": 1
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "http://www.hashcash.org/papers/hashcash.pdf, 2002.",
+            "page_number": 9,
+            "importance_rank": 2
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "W. Dai, \"b-money,\" http://www.weidai.com/bmoney.txt, 1998.",
+            "page_number": 9,
+            "importance_rank": 3
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "We have proposed a system for electronic transactions without relying on trust.",
+            "page_number": 8,
+            "importance_rank": 4
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "The traditional banking model achieves a level of privacy by limiting access to information to the",
+            "page_number": 6,
+            "importance_rank": 5
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "This adds an incentive for nodes to support the network, and provides a way to initially distribute coins into circulation, since there is no central authority to issue them.",
+            "page_number": 4,
+            "importance_rank": 6
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "Commerce on the Internet has come to rely almost exclusively on financial institutions serving as",
+            "page_number": 1,
+            "importance_rank": 7
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted",
+            "page_number": 1,
+            "importance_rank": 8
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "The proof-of-work involves scanning for a value that when hashed, such as with SHA-256, the hash begins with a number of zero bits.",
+            "page_number": 3,
+            "importance_rank": 9
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "be wary of their customers, hassling them for more information than they would otherwise need.",
+            "page_number": 1,
+            "importance_rank": 10
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "We define an electronic coin as a chain of digital signatures.",
+            "page_number": 2,
+            "importance_rank": 11
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "Each node collects new transactions into a block.",
+            "page_number": 3,
+            "importance_rank": 12
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "proof-of-work chain as proof of what happened while they were gone.",
+            "page_number": 1,
+            "importance_rank": 13
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "Once the latest transaction in a coin is buried under enough blocks, the spent transactions before it can be discarded to save disk space.",
+            "page_number": 4,
+            "importance_rank": 14
+        },
+        {
+            "document": "bitcoin.pdf",
+            "refined_text": "most  transactions,  it  still  suffers  from  the  inherent  weaknesses  of  the  trust  based  model.",
+            "page_number": 1,
+            "importance_rank": 15
+        }
+    ]
+}

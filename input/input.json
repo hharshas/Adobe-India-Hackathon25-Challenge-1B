@@ -1,0 +1,16 @@
+{
+  "challenge_info": {
+    "challenge_id": "1",
+    "test_case_name": "learn_bitcoin",
+    "description": "learn new tech stack - bitcoin"
+  },
+  "documents": [
+    {"filename": "bitcoin.pdf"}
+  ],
+  "personnel": {
+    "role": "student"
+  },
+  "job_to_bc_done": {
+    "task": "Learn about bitcoin."
+  }
+}
