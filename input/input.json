@@ -5,7 +5,8 @@
     "description": "learn new tech stack - bitcoin"
   },
   "documents": [
-    {"filename": "bitcoin.pdf"}
+    {"filename": "bitcoin.pdf"},
+    {"filename": "bitcoin-2.pdf"}
   ],
   "personnel": {
     "role": "student"

@@ -1,457 +1,1742 @@
 {
     "metadata": {
         "input_documents": [
-            "bitcoin.pdf"
+            "bitcoin.pdf",
+            "bitcoin-2.pdf"
         ],
         "persona": "student",
         "job_to_be_done": "Learn about bitcoin.",
-        "processing_timestamp": "2025-07-26T21:10:49.162197Z"
+        "processing_timestamp": "2025-07-26T22:38:31.201396Z"
     },
     "extracted_sections": [
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "payments and decentralized networks we know today. It brings with it various benefits",
+            "importance_rank": 1
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "1.4.1 Network and digital currency",
+            "importance_rank": 2
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "ACKNOWLEDGMENTS",
+            "importance_rank": 3
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "1.4.3 How Bitcoin works",
+            "importance_rank": 4
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "currency allows for faster, more flexible, and more innovative payments and ways in",
+            "importance_rank": 5
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "Bitcoin Project, 2014. Frequently asked questions. Retrieved from Bitcoin.org:  https://bitcoin.org/en/faq .",
+            "importance_rank": 6
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "1.5 BENEFITS AND RISKS",
+            "importance_rank": 7
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "a  crypto currency, which is a subset of what is generally known as a  digital  currency. Bitcoin",
+            "importance_rank": 8
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "outright bans. The regulatory landscape continues to change as governments grapple",
+            "importance_rank": 9
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "rest of the network. The power to change the Bitcoin protocol requires full agreement",
+            "importance_rank": 10
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "However, the currency unit used in payments on the Bitcoin network is Bitcoins, not",
+            "importance_rank": 11
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "currency was shut down on money laundering concerns ( BBC News, 2013 ). It is impor-",
+            "importance_rank": 12
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "Handbook of Digital Currency",
+            "importance_rank": 13
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4  (accessed 12.04.13).",
+            "importance_rank": 14
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "chapter introduces the characteristics and features of Bitcoin and sets the stage for further",
+            "importance_rank": 15
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "htm  (accessed 25.01.2015).",
+            "importance_rank": 16
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "(d) Distributed and/or decentralized digital currency",
+            "importance_rank": 17
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "cryptocurrency, although researchers are already working on models that will attempt",
+            "importance_rank": 18
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 13,
+            "section_title": "hash that allows for easy tamper detection (see  Figures 1.1  and  1.2  for an example of a",
+            "importance_rank": 19
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "no single third-party intermediary. In addition to the lack of restrictions on transactions,",
+            "importance_rank": 20
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "managers in alternative investment and critics of contemporary monetary policy. The",
+            "importance_rank": 21
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "currency is much more optimistic because of the blockchain technology. We are likely to",
+            "importance_rank": 22
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "were 50-80k transactions daily, and approximately USD50 million (equivalent to over",
+            "importance_rank": 23
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "2008 ) and spreads the processing work among the network. We make a clear distinction",
+            "importance_rank": 24
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "merchants who accept bitcoins for both digital and physical goods and services. The price",
+            "importance_rank": 25
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "occur when optimistic media coverage attracts investors ( Salmon, 2013 ). This may make",
+            "importance_rank": 26
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "1.5.7 Legal regulatory attitude",
+            "importance_rank": 27
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "1.4.2 Genesis and decentralized control",
+            "importance_rank": 28
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "be secure ( Pacia, 2013 ). SHA-256 is an upgrade from the SHA-1 series and is presently used",
+            "importance_rank": 29
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "html  (accessed 25.01.2015).",
+            "importance_rank": 30
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "2-mechanics/  (accessed 02.09.13).",
+            "importance_rank": 31
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "REFERENCES",
+            "importance_rank": 32
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "At the same time, although Nakamoto remains anonymous, users need not be con-",
+            "importance_rank": 33
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 34
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "country regulators have experience regulating. The innovative use of Bitcoin may be dis-",
+            "importance_rank": 35
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "entrepreneurs will be the first to embrace the cryptocurrency technology before it spills",
+            "importance_rank": 36
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "Internet. However, from the business perspective, the growth of the Internet has more to",
+            "importance_rank": 37
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "because of various reasons. Regulators are also generally uncomfortable at the moment",
+            "importance_rank": 38
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "barbed wire around intellectual property. ( May1992 )",
+            "importance_rank": 39
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "sign transactions to produce those very digital signatures. The public key is publicly acces-",
+            "importance_rank": 40
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "( LocalBitcoins ). This option is more likely to be used in countries with restricted or",
+            "importance_rank": 41
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "1.3.4 Revival of cryptocurrency",
+            "importance_rank": 42
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "where the user can start to receive payments. Usually, bitcoins may be obtained by",
+            "importance_rank": 43
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "cess transactions and are rewarded with new bitcoins for contributing their computer",
+            "importance_rank": 44
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "bitcoins are sent and received using a mobile app, computer software, or service provider",
+            "importance_rank": 45
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "Finally, there is small but growing interest in hardware wallets, which are specialized",
+            "importance_rank": 46
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "What happens during mining is actually a mathematical process. A real-life analogy",
+            "importance_rank": 47
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "ing who their customers are, for risk assessment purposes and compliance with the rel-",
+            "importance_rank": 48
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "The general arguments for a successful distributed cryptocurrency are as follows:",
+            "importance_rank": 49
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "Central to Bitcoin technology is public-key cryptography, which with the SHA-256",
+            "importance_rank": 50
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "have to use software methods that obfuscate or shield such personally identifiable infor-",
+            "importance_rank": 51
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "opers improve and change the software with consensus of network users. At the same",
+            "importance_rank": 52
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "1.4.5 Mining to create new bitcoins and process transactions",
+            "importance_rank": 53
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "world identities, their work should begin with the blockchain. In a simulated experiment,",
+            "importance_rank": 54
+        },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "www.bitcoin.org",
-            "importance_rank": 1
+            "importance_rank": 55
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "exists \u201cdigitally\u201d and, for most intents and purposes, satisfies the economic definition of",
+            "importance_rank": 56
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "the information recorded includes the public keys of the sender and recipient, the",
+            "importance_rank": 57
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "attack the network, they may produce the longest chain of their choice creating doubts",
+            "importance_rank": 58
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "production rate of a commodity like gold (see  Figure 1.3 ). There will be a point in the",
+            "importance_rank": 59
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "coins progressively, at a predictable but decreasing rate. To ensure a progressive growth",
+            "importance_rank": 60
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "Buyers of some digital currencies such as cryptocurrencies are anticipating a price",
+            "importance_rank": 61
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "1.5.6 Facilitation of criminal activity",
+            "importance_rank": 62
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "machine, from an exchange, or simply from another person. Bitcoin vending machines,",
+            "importance_rank": 63
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "wallets on their computer. The original Bitcoin client software, known as Bitcoin Core,",
+            "importance_rank": 64
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "1.5.4 Platform for further innovation",
+            "importance_rank": 65
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 66
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "Systems Development Group, 2013 ). The reduced costs of remittances could be substan-",
+            "importance_rank": 67
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "lem is approximately 10 min for Bitcoin. Cryptocurrency cleverly solves the double-",
+            "importance_rank": 68
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 9,
             "section_title": "A. Back, \"Hashcash - a denial of service counter-measure,\"",
-            "importance_rank": 2
+            "importance_rank": 69
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "merely a financial intermediary, being just one of many unregulated exchanges that trade",
+            "importance_rank": 70
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "to-peer network of cryptocurrency, either decentralized or distributed. Financial services",
+            "importance_rank": 71
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "in the process validate the public digital register. What differentiated his approach from",
+            "importance_rank": 72
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "rency system, argued  Szabo (2008)  in a blog post just at the beginning of the global finan-",
+            "importance_rank": 73
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "inflation environment and worsened income equality. The supply of cryptocurrency or",
+            "importance_rank": 74
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "Handbook of Digital Currency",
+            "importance_rank": 75
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "ily insert cash into a machine to obtain bitcoins instantly ( Ulm, 2014 ). Bitcoin exchanges",
+            "importance_rank": 76
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "from  http://link.springer.com/chapter/10.1007%2F978-1-4757-0602-4_18 .",
+            "importance_rank": 77
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "sibility of using the currency for money laundering or terrorism activities. If that problem",
+            "importance_rank": 78
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "as of October 2014. Twenty-five bitcoins are created approximately every 10 min from",
+            "importance_rank": 79
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "protocol is accordingly designed to prefer longer chains. Miners therefore perform a vital",
+            "importance_rank": 80
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "Third, cryptocurrency involves mining or proof of work. There are rewards for",
+            "importance_rank": 81
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "be welfare improvement in a cryptocurrency world, which is decentralized but not nec-",
+            "importance_rank": 82
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "intensive process that ensures that only legitimate transactions are verified and recorded",
+            "importance_rank": 83
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "Despite sounding technical, what Szabo described was a simple protocol that requires",
+            "importance_rank": 84
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 9,
             "section_title": "[1]",
-            "importance_rank": 3
+            "importance_rank": 85
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 86
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "1.3.3 Pioneering Internet payments with digital gold",
+            "importance_rank": 87
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "1.5.3 User control",
+            "importance_rank": 88
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "once there are doubts about the blockchain. It seems that if the cryptocurrency exhausts",
+            "importance_rank": 89
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "your-customer (KYC) and suspicious transaction reporting requirements. With the",
+            "importance_rank": 90
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "solved without needing a third party. In computer science, the double-spending problem",
+            "importance_rank": 91
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "Bitcoin solves the double-spending problem by maintaining a ledger of balances,",
+            "importance_rank": 92
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "huge government debts, has brought attention to cryptocurrency for those who wanted",
+            "importance_rank": 93
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "1.6 IMPACT OF THE DIGITAL CURRENCY REVOLUTION",
+            "importance_rank": 94
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 8,
             "section_title": "12. Conclusion",
-            "importance_rank": 4
+            "importance_rank": 95
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "1.7.3 Identification",
+            "importance_rank": 96
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "At the same time, sociopolitical interest in cryptocurrency grew. Since we abandoned",
+            "importance_rank": 97
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "identifiable information is often captured during a transaction on a website, like an IP",
+            "importance_rank": 98
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "rency like Bitcoin depends on mining, and once the incentives for mining disappear, no",
+            "importance_rank": 99
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 6,
             "section_title": "10. Privacy",
-            "importance_rank": 5
+            "importance_rank": 100
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "could be a backdoor that allows someone to control the system. Cryptocurrency with",
+            "importance_rank": 101
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "0.00000001 of a bitcoin\u2014is produced through mining, miners who continue to contribute",
+            "importance_rank": 102
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "porations and of government interference in economic transactions. Combined with emerg-",
+            "importance_rank": 103
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 4,
             "section_title": "Incentive",
-            "importance_rank": 6
+            "importance_rank": 104
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "2013 ). Being an open-source technology, alternative digital currencies like Litecoin and",
+            "importance_rank": 105
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "ing cryptocurrency with an estimated 6 million electronic wallets, 70,000 merchants, and",
+            "importance_rank": 106
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "Introduction",
-            "importance_rank": 7
+            "importance_rank": 107
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "matical proof of work. Mining is difficult because besides ensuring that the transactions are",
+            "importance_rank": 108
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "to the unbanked and underbanked. It presents the opportunity to function as a conduit",
+            "importance_rank": 109
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "in England, BerkShares that is circulated in Berkshire region of Massachusetts,",
+            "importance_rank": 110
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "online and offline using cryptographic protocols to prevent double-spending. The",
+            "importance_rank": 111
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "A certain percentage of fraud is accepted as unavoidable.  These costs and payment uncertainties",
-            "importance_rank": 8
+            "importance_rank": 112
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "incentive to reward those who participate. For Bitcoin, first participant to crack the code",
+            "importance_rank": 113
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "specific and usually bounded by some social contracts or agreement such as honoring",
+            "importance_rank": 114
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "There are various innovative money payment systems in the market today, many of",
+            "importance_rank": 115
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "1.4.6 Security and cryptography",
+            "importance_rank": 116
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "Proof-of-Work",
-            "importance_rank": 9
+            "importance_rank": 117
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "Of course, there are technical solutions to all these and some cryptocurrencies have",
+            "importance_rank": 118
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "including medical care, education, and financial services. The blockchain technology can",
+            "importance_rank": 119
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "challenges ( Kaminsky, 2013 ). Perhaps the most important risk to end users is that if the",
+            "importance_rank": 120
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "technology and it involves financial regulation but therein lies the difficulty in execu-",
+            "importance_rank": 121
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "operate only with full consensus of all network users. This ensures that software devel-",
+            "importance_rank": 122
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "received the funds. This is possible because these intermediaries help maintain a record,",
+            "importance_rank": 123
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "Every new block that is successfully added onto the blockchain references the previous",
+            "importance_rank": 124
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "ring value through the Internet where control is weak. Such digital currencies may",
+            "importance_rank": 125
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "As the mining costs go up because equipment becomes more expensive, mining pools",
+            "importance_rank": 126
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "businesses. Traditional credit card acceptance is expensive for merchants, with customers",
+            "importance_rank": 127
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "Cryptocurrency is a subset of digital currency. Examples of the many digital curren-",
+            "importance_rank": 128
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "one knows where these cryptocurrency experiments are heading but the experiments",
+            "importance_rank": 129
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "growth, from the likes of PayPal, Apple Pay, Google Wallet, Alipay, Tenpay, Venmo,",
+            "importance_rank": 130
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "With many alternative currencies in competition, only a few will be globally adopted,",
+            "importance_rank": 131
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "reversible services.  With the possibility of reversal, the need for trust spreads.  Merchants must",
-            "importance_rank": 10
+            "importance_rank": 132
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 133
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "merchant has the card details. Transactions also do not contain substantial personal infor-",
+            "importance_rank": 134
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "such as Brixton Pound, BerkShares, and Salt Spring Dollar also fall under this cate-",
+            "importance_rank": 135
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "ticular currency wanes and the number of miners shrinks, which opens up the possibility",
+            "importance_rank": 136
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "The cryptocurrency invented by Satoshi Nakamoto, called bitcoins, is run using",
+            "importance_rank": 137
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "tions also allows merchants to accept micropayments, paving the way for Bitcoin to be",
+            "importance_rank": 138
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "Bitcoin Wallet apps like Blockchain.info from its App Store ( Southurst, 2014 ), although",
+            "importance_rank": 139
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "Web in 2008 for a peer-to-peer electronic cash system. Despite many efforts, the identity",
+            "importance_rank": 140
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "coin transactions using digital signatures. It uses an asymmetrical algorithm that generates",
+            "importance_rank": 141
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "ruptive to the currency system because hedge fund managers were perceived as the bad",
+            "importance_rank": 142
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "double-spent or counterfeited. An adversary needs to amass sufficient computing power",
+            "importance_rank": 143
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "work, thus exposing the cryptocurrency to attack. This was indeed the case for Bitcoin",
+            "importance_rank": 144
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "Transactions",
-            "importance_rank": 11
+            "importance_rank": 145
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "a risk that this will destabilize the financial and payment markets and ultimately price",
+            "importance_rank": 146
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "While bitcoin transfers are broadcast instantaneously over the network, there is, in",
+            "importance_rank": 147
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "Bitcoin means that the source code is fully disclosed. This disclosure allows any software",
+            "importance_rank": 148
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "more contemporary examples are prepaid phone cards and, to some extent, cash",
+            "importance_rank": 149
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "2)",
-            "importance_rank": 12
+            "importance_rank": 150
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "basis, and nodes can leave and rejoin the network at will, accepting the longest",
-            "importance_rank": 13
+            "importance_rank": 151
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 4,
             "section_title": "Reclaiming Disk Space",
-            "importance_rank": 14
+            "importance_rank": 152
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "trusted third parties to process electronic payments.  While the system works well enough for",
-            "importance_rank": 15
+            "importance_rank": 153
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "openp2p.com/pub/a/p2p/2000/12/19/micropayments.html  (accessed 25.01.2015).",
+            "importance_rank": 154
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "transactions to and from any Bitcoin address can be traced. Therefore, Bitcoin is pseu-",
+            "importance_rank": 155
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "money, and  Shirky (2000)  on micropayments. Cypherpunk is an activist group since",
+            "importance_rank": 156
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "Eventually, it is about reduction of business cost, and welfare improvement will fol-",
+            "importance_rank": 157
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "Combining and Splitting Value",
-            "importance_rank": 16
+            "importance_rank": 158
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "fore must be kept securely. There are various types of Bitcoin wallets, including desktop,",
+            "importance_rank": 159
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "of all subsequent blocks ( Bitcoin Project ), it becomes more and more infeasible for an",
+            "importance_rank": 160
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "3)",
-            "importance_rank": 17
+            "importance_rank": 161
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "from  http://www.coindesk.com/apple-removes-blockchain-bitcoin-wallet-from-app-stores/  (accessed",
+            "importance_rank": 162
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 4,
             "section_title": "circulation, the incentive can transition entirely to transaction fees and be completely inflation",
-            "importance_rank": 18
+            "importance_rank": 163
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "information/how-to-store-your-bitcoins/  (accessed 22.07.14).",
+            "importance_rank": 164
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "his own words,",
+            "importance_rank": 165
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "keeping records of their customers, which will reduce the attractiveness of Bitcoin to",
+            "importance_rank": 166
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "much easier. Therefore, there must be no barrier to access content or digital record,",
+            "importance_rank": 167
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 168
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "There are also similarities between hedge funds and cryptocurrency at the industry",
+            "importance_rank": 169
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "(e) Inefficiencies",
+            "importance_rank": 170
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "http://gawker.com/5805928/the-underground-website-where-you-can-buy-any-drug-imaginable",
+            "importance_rank": 171
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 6,
             "section_title": "parties involved and the trusted third party.  The necessity to announce all transactions publicly",
-            "importance_rank": 19
+            "importance_rank": 172
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "The savings in cost of a large settlement team for financial activities can be",
+            "importance_rank": 173
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "based on an electronic medium, the term \u201cvirtual\u201d has a negative connotation. \u201cVirtual\u201d",
+            "importance_rank": 174
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "used ( CoinDesk, 2014 ). The private keys for a user\u2019s Bitcoin addresses are kept and stored",
+            "importance_rank": 175
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 13,
+            "section_title": "to make sure that the bitcoins have not been already spent, thus solving the",
+            "importance_rank": 176
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "ized agreements can be between multiple parties, containing user-defined scripted",
+            "importance_rank": 177
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "learn about the intricacies of this financial innovation\u2014it is a wait-and-see situation. That",
+            "importance_rank": 178
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "Timestamp Server",
-            "importance_rank": 20
+            "importance_rank": 179
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "financial institution.  Digital signatures provide part of the solution, but the main",
-            "importance_rank": 21
+            "importance_rank": 180
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 20,
+            "section_title": "increase the costs of accepting credit cards for payments. Yet, merchants who forgo credit",
+            "importance_rank": 181
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "1.8 FUTURE PROSPECTS AND CONCLUSION",
+            "importance_rank": 182
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "encryption. If that is done, the issues surrounding Know Your Customer/Client",
+            "importance_rank": 183
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "confirm the inconsistency.  Businesses that receive frequent payments will probably still want to",
-            "importance_rank": 22
+            "importance_rank": 184
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 6,
             "section_title": "11. Calculations",
-            "importance_rank": 23
+            "importance_rank": 185
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "mercatus.org/publication/bitcoin-primer-policymakers .",
+            "importance_rank": 186
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "6)",
-            "importance_rank": 24
+            "importance_rank": 187
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "For our timestamp network, we implement the proof-of-work by incrementing a nonce in the",
-            "importance_rank": 25
+            "importance_rank": 188
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 25,
+            "section_title": "Bitcoin will aid in understanding other cryptocurrencies. It is only with a good founda-",
+            "importance_rank": 189
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 190
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "created online with minimal dependence on trusted third parties, and then securely stored,",
+            "importance_rank": 191
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "transactions per year. There are clear lessons to be learned by the cryptocurrency",
+            "importance_rank": 192
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "As the first cryptocurrency, the eCash system was available via various banks and smart",
+            "importance_rank": 193
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "\ue09e z \u2212 k \ue09f \ue09f",
-            "importance_rank": 26
+            "importance_rank": 194
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "requirements requiring these intermediaries to collect personally identifiable information",
+            "importance_rank": 195
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "Handbook of Digital Currency",
+            "importance_rank": 196
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "decided which arrived first.  To accomplish this without a trusted party, transactions must be",
-            "importance_rank": 27
+            "importance_rank": 197
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "transactions for themselves, the simplified method can be fooled by an attacker's fabricated",
-            "importance_rank": 28
+            "importance_rank": 198
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 16,
+            "section_title": "erly. Blockchain.info also has a popular web-based online wallet and some online wallets",
+            "importance_rank": 199
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "It has become much easier to use with improved software and low entry barriers",
+            "importance_rank": 200
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "spiked 57% within a week to USD74. Like gold and other commodities, Bitcoin\u2019s price",
+            "importance_rank": 201
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 9,
             "section_title": "[8]",
-            "importance_rank": 29
+            "importance_rank": 202
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "one-way function is prohibitively difficult to compute backwards, a secure benchmark func-",
+            "importance_rank": 203
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "of traditional banks being too big to fail. With high debt and quantitative easing,",
+            "importance_rank": 204
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 10,
+            "section_title": "Introduction to Bitcoin",
+            "importance_rank": 205
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "Cryptocurrency in its purest form is a peer-to-peer version of electronic cash. It allows",
+            "importance_rank": 206
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "5)",
-            "importance_rank": 30
+            "importance_rank": 207
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "timestamp server to generate computational proof of the chronological order of transactions.  The",
-            "importance_rank": 31
+            "importance_rank": 208
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "mediary to verify transactions ( Brito and Castillo, 2013 ). For example, when Alice wants",
+            "importance_rank": 209
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "Simplified Payment Verification",
-            "importance_rank": 32
+            "importance_rank": 210
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "Retrieved from  http://www.businessinsider.com/how-bitcoins-are-mined-and-used-2013-4  (accessed",
+            "importance_rank": 211
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 15,
+            "section_title": "of a wallet in storing the private keys for corresponding bitcoin addresses remains the",
+            "importance_rank": 212
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "sumption within a group of independent retailers or within a geographic area for job",
+            "importance_rank": 213
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 8,
             "section_title": "z=50   P=0.0000006",
-            "importance_rank": 33
+            "importance_rank": 214
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "movement in 1992:",
+            "importance_rank": 215
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 3,
+            "section_title": "not \u201cphysical\u201d but computer-generated or computer-simulated. However, the curren-",
+            "importance_rank": 216
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 7,
+            "section_title": "Cryptocurrency was thought to possess the characteristics of a currency that can",
+            "importance_rank": 217
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "keys may not defend against such transaction graph analysis ( Ober et al., 2013 ), as an",
+            "importance_rank": 218
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "minimum practical transaction size and cutting off the possibility for small casual transactions,",
-            "importance_rank": 34
+            "importance_rank": 219
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "intermediary like PayPal would deduct the amount from her account and accordingly",
+            "importance_rank": 220
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 8,
             "section_title": "that quickly becomes computationally impractical for an attacker to change if honest nodes",
-            "importance_rank": 35
+            "importance_rank": 221
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "1)",
-            "importance_rank": 36
+            "importance_rank": 222
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "4)",
-            "importance_rank": 37
+            "importance_rank": 223
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "Given our assumption that  p > q , the probability drops exponentially as the number of blocks the",
-            "importance_rank": 38
+            "importance_rank": 224
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "Second, many have jokingly remarked that Bitcoin sounded more like \u201cbig con\u201d",
+            "importance_rank": 225
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 24,
+            "section_title": "via a decentralized but not necessary distributed system. A cryptocurrency that addresses",
+            "importance_rank": 226
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 17,
+            "section_title": "hour, before considering a transaction to be \u201cconfirmed,\u201d but each user has the freedom",
+            "importance_rank": 227
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "mainly but not necessary due to open-source software. There is no legal entity",
+            "importance_rank": 228
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "technology companies: SAmsung, TOSHIba, NAKAmichi, and MOTOrola. Others have noted that it",
+            "importance_rank": 229
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "functionmainly usedin Bitcoin is SHA-256 ( Pacia, 2013 ), whichwas incidentally originally",
+            "importance_rank": 230
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "the proof-of-work difficulty is determined by a moving average targeting an average number of",
-            "importance_rank": 39
+            "importance_rank": 231
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 9,
             "section_title": "[2]",
-            "importance_rank": 40
+            "importance_rank": 232
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 21,
+            "section_title": "the value of bitcoins may become less volatile as familiarity with Bitcoin increases",
+            "importance_rank": 233
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 6,
             "section_title": "from being linked to a common owner.  Some linking is still unavoidable with multi-input",
-            "importance_rank": 41
+            "importance_rank": 234
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 2,
+            "section_title": "\u00a9  2015 Elsevier Inc.",
+            "importance_rank": 235
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 9,
             "section_title": "S. Haber, W.S. Stornetta, \"How to time-stamp a digital document,\" In  Journal of Cryptology , vol 3, no",
-            "importance_rank": 42
+            "importance_rank": 236
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 11,
+            "section_title": "because miners prefer higher probability of success in cracking the code. However, this will",
+            "importance_rank": 237
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "therefore spent it. Without a trusted third-party intermediary to ensure otherwise, Alice",
+            "importance_rank": 238
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "1",
-            "importance_rank": 43
+            "importance_rank": 239
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 26,
+            "section_title": "(poster abstract). In: B \u20ac ohme, R., Brenner, M., Moore, T., Smith, M. (Eds.), Springer, Berlin",
+            "importance_rank": 240
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "There are ecology concerns and the question of whether we have reached the",
+            "importance_rank": 241
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "The recipient waits until the transaction has been added to a block and  z  blocks have been",
-            "importance_rank": 44
+            "importance_rank": 242
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "Reserve, gBullion, e-gold, and eCache. With a couple of exceptions, most have ended",
+            "importance_rank": 243
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "decision is represented by the longest chain, which has the greatest proof-of-work effort invested",
-            "importance_rank": 45
+            "importance_rank": 244
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "7",
-            "importance_rank": 46
+            "importance_rank": 245
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "Washington,",
+            "importance_rank": 246
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 8,
+            "section_title": "other suggestions such as Vili Lehdonvirta, Michael Clear, Neal King, Vladimir Oksman, Charles Bry,",
+            "importance_rank": 247
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 1,
             "section_title": "the proof-of-work.  The longest chain not only serves as proof of the sequence of",
-            "importance_rank": 47
+            "importance_rank": 248
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 27,
+            "section_title": "Handbook of Digital Currency",
+            "importance_rank": 249
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "Private Key",
-            "importance_rank": 48
+            "importance_rank": 250
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 4,
             "section_title": "Tx3",
-            "importance_rank": 49
+            "importance_rank": 251
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "ing. Cryptocurrency may not replace the fiat currency, but its blockchain technology will",
+            "importance_rank": 252
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 9,
+            "section_title": "interest to researchers, regulators, investors, and merchants and it is hitting the head-",
+            "importance_rank": 253
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "ogies. However, after it was acquired by InfoSpace in 1999, eCash and cryptocurrency",
+            "importance_rank": 254
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 1,
+            "section_title": "All content following this page was uploaded by  David Lee Kuo Chuen  on 22 April 2019.",
+            "importance_rank": 255
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 6,
+            "section_title": "current form of cryptocurrencies with many refinements by various software developers",
+            "importance_rank": 256
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 4,
+            "section_title": "monetary instruments, and more importantly, its intrinsic value is not an abstraction",
+            "importance_rank": 257
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "transactions contain multiple inputs and outputs.  Normally there will be either a single input",
-            "importance_rank": 50
+            "importance_rank": 258
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "extending it.  If two nodes broadcast different versions of the next block simultaneously, some",
-            "importance_rank": 51
+            "importance_rank": 259
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 22,
+            "section_title": "encourage beneficial uses and future innovations while minimizing the risks posed",
+            "importance_rank": 260
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "Item",
-            "importance_rank": 52
+            "importance_rank": 261
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 2,
             "section_title": "Item",
-            "importance_rank": 53
+            "importance_rank": 262
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "Tx",
-            "importance_rank": 54
+            "importance_rank": 263
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "In",
-            "importance_rank": 55
+            "importance_rank": 264
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 5,
             "section_title": "Out",
-            "importance_rank": 56
+            "importance_rank": 265
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 5,
+            "section_title": "circulation because of superseding advancements in technology, tighter regulation,",
+            "importance_rank": 266
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "p",
-            "importance_rank": 57
+            "importance_rank": 267
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 7,
             "section_title": "if k \ue085 z }",
-            "importance_rank": 58
+            "importance_rank": 268
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 12,
+            "section_title": "tocol, other developers have continued working on it and the Bitcoin community",
+            "importance_rank": 269
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 18,
+            "section_title": "As seen from  Figures 1.1  and  1.2 , a Bitcoin address is an alphanumeric sequence of char-",
+            "importance_rank": 270
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 19,
+            "section_title": "Bitcoin was specifically designed for fast transactions at low costs ( Nakamoto, 2008 ). Pay-",
+            "importance_rank": 271
         },
         {
             "document": "bitcoin.pdf",
             "page_number": 3,
             "section_title": "Tx",
-            "importance_rank": 59
+            "importance_rank": 272
+        },
+        {
+            "document": "bitcoin-2.pdf",
+            "page_number": 23,
+            "section_title": "the competitive accounting exercise. Bitcoin is subject to the same problems we men-",
+            "importance_rank": 273
         }
     ],
     "subsection_analysis": [
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "A purely peer-to-peer version of electronic cash would allow online",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "This chapter has mainly discussed the main features of Bitcoin,",
+            "page_number": 25,
             "importance_rank": 1
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "http://www.hashcash.org/papers/hashcash.pdf, 2002.",
-            "page_number": 9,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "Bitcoin is a decentralized network and a digital currency that uses a peer-to-peer system to verify and process transactions.",
+            "page_number": 11,
             "importance_rank": 2
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "W. Dai, \"b-money,\" http://www.weidai.com/bmoney.txt, 1998.",
-            "page_number": 9,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "The ideas for this chapter originated from the expertise of David Lee, especially in his introductory lectures on Bitcoin, and from Lam Pak Nian\u2019s earlier research on Bitcoin during his undergraduate degree.",
+            "page_number": 26,
             "importance_rank": 3
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "We have proposed a system for electronic transactions without relying on trust.",
-            "page_number": 8,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "To a layperson, bitcoin is a digital currency that is created and held electronically.",
+            "page_number": 12,
             "importance_rank": 4
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "The traditional banking model achieves a level of privacy by limiting access to information to the",
-            "page_number": 6,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "To be specific, Bitcoin is",
+            "page_number": 3,
             "importance_rank": 5
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "This adds an incentive for nodes to support the network, and provides a way to initially distribute coins into circulation, since there is no central authority to issue them.",
-            "page_number": 4,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "The top 3 things I learned at the bitcoin conference.",
+            "page_number": 26,
             "importance_rank": 6
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "Commerce on the Internet has come to rely almost exclusively on financial institutions serving as",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "Bitcoin as a novel technology brings a range of benefits and risks to the table.",
+            "page_number": 19,
             "importance_rank": 7
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "Like many created after it, Bitcoin uses the power of the Internet to process its transactions.",
+            "page_number": 3,
             "importance_rank": 8
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "The proof-of-work involves scanning for a value that when hashed, such as with SHA-256, the hash begins with a number of zero bits.",
-            "page_number": 3,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "with the risks and benefits of Bitcoin to their country.",
+            "page_number": 22,
             "importance_rank": 9
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "be wary of their customers, hassling them for more information than they would otherwise need.",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "among Bitcoin users and developers.",
+            "page_number": 12,
             "importance_rank": 10
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "We define an electronic coin as a chain of digital signatures.",
-            "page_number": 2,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "Therefore, bitcoins in itself is also a digital currency, in the sense that it",
+            "page_number": 11,
             "importance_rank": 11
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "Each node collects new transactions into a block.",
-            "page_number": 3,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "tant to remember, however, that bitcoins are like money, and money can be used for",
+            "page_number": 21,
             "importance_rank": 12
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "proof-of-work chain as proof of what happened while they were gone.",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "But the origins of Bitcoin have their roots in cryptoanarchy that started as a",
+            "page_number": 7,
             "importance_rank": 13
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "Once the latest transaction in a coin is buried under enough blocks, the spent transactions before it can be discarded to save disk space.",
-            "page_number": 4,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "Nerdy money: bitcoin, the private digital currency, and the case against its regula-",
+            "page_number": 26,
             "importance_rank": 14
         },
         {
-            "document": "bitcoin.pdf",
-            "refined_text": "most  transactions,  it  still  suffers  from  the  inherent  weaknesses  of  the  trust  based  model.",
-            "page_number": 1,
+            "document": "bitcoin-2.pdf",
+            "refined_text": "discussion of cryptocurrencies in the rest of this book.",
+            "page_number": 3,
             "importance_rank": 15
         }
     ]
